@@ -1,5 +1,4 @@
 // M2 - GCD using Euclid's algorithm
-
 import java.util.Scanner;
 public class Method2 {
     public static int gcd(int a, int b) {

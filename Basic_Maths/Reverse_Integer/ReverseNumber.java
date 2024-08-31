@@ -1,6 +1,6 @@
 /* Find the reverse of given number */
-import java.util.Scanner;
 package Reverse_Integer;
+import java.util.Scanner;
 public class ReverseNumber {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
