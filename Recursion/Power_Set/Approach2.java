@@ -21,4 +21,4 @@ public class Approach2 {
         System.out.println(PowerSetIterative(set));
     }
 }
-// TC: O(n*2^n), SC: O(2^n)
+// TC: O(n*2^n), SC: O(n*2^n)

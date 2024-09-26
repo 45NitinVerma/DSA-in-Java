@@ -1,3 +1,4 @@
+// nCr using recursion
 public class nCr {
     public static int ncr(int n, int r) {
         // Base cases

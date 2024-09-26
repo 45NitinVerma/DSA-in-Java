@@ -17,7 +17,6 @@ public class Approach1 {
         }
         return powerSet;
     }
-
     public static void main(String[] args) {
         List<Integer> set = Arrays.asList(1, 2, 3);
 
@@ -25,4 +24,4 @@ public class Approach1 {
         System.out.println(PowerSetBinary(set));
     }
 }
-// TC: O(n*2^n), SC: O(2^n)
+// TC: O(n*2^n), SC: O(n*2^n)

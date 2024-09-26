@@ -1,3 +1,4 @@
+package GCD_or_HCF;
 // M2 - GCD using Euclid's algorithm
 import java.util.Scanner;
 public class Method2 {

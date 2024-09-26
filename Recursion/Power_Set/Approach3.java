@@ -15,7 +15,6 @@ public class Approach3 {
             powerSet.add(new ArrayList<>(current));
             return;
         }
-        
         // Don't include the current element
         generateSubsets(set, index + 1, current, powerSet);
         
@@ -30,4 +29,4 @@ public class Approach3 {
         System.out.println(Subsets(set));
     }
 }
-// TC: O(2^n), SC: O(n)
+// TC: O(n*2^n), SC: O(n*2^n)
