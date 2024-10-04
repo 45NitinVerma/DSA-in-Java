@@ -27,7 +27,7 @@ public class CountSubsetSum {
         int[] arr = {1, 2, 3, 4};
         int k = 5;
         int result = countSubsets(arr, k);
-        System.out.println("Number of subsets with sum " + k + ": " + result);
+        System.out.println("Number of subsets with sum " + k + ":\n" + result);
     }
 }
 // TC: O(2^n), SC: O(n)
