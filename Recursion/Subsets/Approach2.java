@@ -1,5 +1,5 @@
 // Approach2: Using iterative approach
-package Power_Set;
+package Subsets;
 import java.util.*;
 public class Approach2 {
     public static List<List<Integer>> PowerSetIterative(List<Integer> set) {

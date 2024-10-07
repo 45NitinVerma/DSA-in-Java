@@ -1,5 +1,5 @@
 // Approach 3: Recursive Approach
-package Power_Set;
+package Subsets;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

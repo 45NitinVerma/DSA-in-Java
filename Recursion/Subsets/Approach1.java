@@ -1,5 +1,5 @@
 // Approach1: Using binary representation
-package Power_Set;
+package Subsets;
 import java.util.*;
 public class Approach1 {
     public static List<List<Integer>> PowerSetBinary(List<Integer> set) {
