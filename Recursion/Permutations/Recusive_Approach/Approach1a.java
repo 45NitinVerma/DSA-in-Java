@@ -1,5 +1,5 @@
 // Approach 1(a): Backtracking with ArrayList contains check
-package Recusive_Approach;
+package Permutations.Recusive_Approach;
 import java.util.List;
 import java.util.ArrayList;
 public class Approach1a {

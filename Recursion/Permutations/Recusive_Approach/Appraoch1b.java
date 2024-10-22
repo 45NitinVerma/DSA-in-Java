@@ -1,5 +1,5 @@
 // Approach1b: Backtracking with Element Swapping
-package Recusive_Approach;
+package Permutations.Recusive_Approach;
 import java.util.Arrays;
 public class Appraoch1b {
     public static void permute(int[] arr, int start) {

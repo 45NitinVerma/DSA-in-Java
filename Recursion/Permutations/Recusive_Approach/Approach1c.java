@@ -1,5 +1,5 @@
 // Approach1c: Backtracking with boolean frequency array
-package Recusive_Approach;
+package Permutations.Recusive_Approach;
 import java.util.ArrayList;
 import java.util.List;
 public class Approach1c {
