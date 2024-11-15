@@ -1,7 +1,7 @@
 /* Count the number of digits of a number
    -> Method1 - By using loop    */
 
-package DigitCounter;
+package Basic_Maths.DigitCounter;
 import java.util.Scanner;
 
 public class Method1 {

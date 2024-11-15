@@ -1,5 +1,5 @@
 // Approach 2: Using Merge Sort
-package Count_Inversions;
+package Array.Sorting_Searching.Count_Inversions;
 import java.util.ArrayList;
 public class Approach2 {
 

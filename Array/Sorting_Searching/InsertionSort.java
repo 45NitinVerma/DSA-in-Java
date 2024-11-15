@@ -1,3 +1,4 @@
+package Array.Sorting_Searching;
 public class InsertionSort {
     // Method to perform insertion sort
     public static void insertionSort(int[] arr) {

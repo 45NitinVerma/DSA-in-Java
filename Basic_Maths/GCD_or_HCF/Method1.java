@@ -1,5 +1,5 @@
 /* M1 - Finding GCD (Brute force approach) */
-package GCD_or_HCF;
+package Basic_Maths.GCD_or_HCF;
 public class Method1 {
     public static void main(String[] args) {
         int num1=20, num2=40;

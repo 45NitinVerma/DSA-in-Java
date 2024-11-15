@@ -1,5 +1,5 @@
 // Approach2: Fast exponentiation
-package a_Power_b;
+package Basic_Maths.a_Power_b;
 public class Approach2 {
     public static int fastExponentiation(int a, int b){
         int res = 1;

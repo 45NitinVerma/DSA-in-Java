@@ -1,5 +1,5 @@
 // Approach3: By recursion
-package a_Power_b;
+package Basic_Maths.a_Power_b;
 public class Approach3 {
      // Recursive function to calculate a^b
      public static int power(int a, int b) {

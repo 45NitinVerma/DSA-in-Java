@@ -1,4 +1,5 @@
 // Count Prime numbers strictly less than a given number
+package Basic_Maths;
 import java.util.Arrays;
 import java.util.Scanner;
 public class CountPrimes {

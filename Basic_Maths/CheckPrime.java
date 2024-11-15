@@ -1,4 +1,5 @@
 // Check for prime number
+package Basic_Maths;
 import java.util.Scanner;
 public class CheckPrime {
     public static void main(String[] args) {

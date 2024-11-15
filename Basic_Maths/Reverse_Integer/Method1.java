@@ -1,7 +1,7 @@
 /* Find the reverse of given number */
-package Reverse_Integer;
+package Basic_Maths.Reverse_Integer;
 import java.util.Scanner;
-public class ReverseNumber {
+public class Method1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the value of n : ");

@@ -1,4 +1,5 @@
 // Conver Decimal number to its Binary form
+package Basic_Maths;
 import java.util.Scanner;
 public class DecToBin {
     public static void main(String[] args) {

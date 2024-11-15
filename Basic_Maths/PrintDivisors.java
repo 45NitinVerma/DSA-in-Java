@@ -1,4 +1,5 @@
 // Print all Divisors of a number in a sorted order
+package Basic_Maths;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;

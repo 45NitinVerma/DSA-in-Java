@@ -1,5 +1,5 @@
 // Approach 8 - By Recursion
-package Power_of_2;
+package Basic_Maths.Power_of_2;
 import java.util.Scanner;
 public class Approach8{
         public static boolean isPowerOfTwo(int n) {

@@ -1,3 +1,4 @@
+package Array.Sorting_Searching;
 public class SelectionSort {
     
     // Method to perform selection sort on an array

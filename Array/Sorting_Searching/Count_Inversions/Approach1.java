@@ -1,5 +1,5 @@
+package Array.Sorting_Searching.Count_Inversions;
 // Approach 1: Brute Force Approach
-package Count_Inversions;
 public class Approach1 {
 
     // Function to count the number of inversions in the array

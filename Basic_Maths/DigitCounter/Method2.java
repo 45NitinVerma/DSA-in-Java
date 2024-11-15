@@ -1,7 +1,7 @@
 /* Count the number of digits of a number
    -> Method2 - By using log10    */
 
-package DigitCounter;
+package Basic_Maths.DigitCounter;
 import java.util.Scanner;
 import static java.lang.Math.*;
 

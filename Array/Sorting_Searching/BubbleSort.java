@@ -1,3 +1,4 @@
+package Array.Sorting_Searching;
 public class BubbleSort {
     // Method to perform Bubble Sort on an array
     public static void bubbleSort(int[] arr) {

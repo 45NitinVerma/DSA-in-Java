@@ -1,5 +1,5 @@
 // Approach 5 - Using AND operator
-package Power_of_2;
+package Basic_Maths.Power_of_2;
 import java.util.Scanner;
 public class Approach5{
         public static boolean isPowerOfTwo(int n) {

@@ -1,5 +1,5 @@
 // M2: When ans goes out of range
-package Reverse_Integer;
+package Basic_Maths.Reverse_Integer;
 import java.util.Scanner;
 public class Method2 {
     public static int reverseInteger(int n) {

@@ -1,4 +1,5 @@
 // MERGE SORT
+package Array.Sorting_Searching;
 public class MergeSort {
     public static void main(String[] args) {
         int[] arr = {8, 9, 2, 5, 1};

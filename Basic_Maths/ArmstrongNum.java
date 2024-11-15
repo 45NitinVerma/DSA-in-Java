@@ -1,4 +1,5 @@
 // Check if a number is an Armstrong number
+package Basic_Maths;
 import java.util.Scanner;
 public class ArmstrongNum {
     public static boolean isArmstrong(int number) {

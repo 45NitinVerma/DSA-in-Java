@@ -1,3 +1,4 @@
+package Array.Sorting_Searching;
 public class QuickSort {
     // Partition function implementing Hoare's partition scheme
     // Quick Sort

@@ -1,5 +1,5 @@
 // Approach1 - Iterative Approach
-package a_Power_b;
+package Basic_Maths.a_Power_b;
 public class Approach1 {
     public static long powerIterative(int a, int b) {
         long result = 1;
