@@ -1,8 +1,6 @@
 // Brute Force Approach - Sort the array first
 package Array.Second_Largest;
-
 import java.util.Arrays;
-
 public class Approach1 {
     public static int findSecondLargest(int[] arr) {
         // Check if array is null or has less than 2 elements
