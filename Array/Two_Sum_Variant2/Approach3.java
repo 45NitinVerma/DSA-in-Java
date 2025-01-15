@@ -1,5 +1,5 @@
+// Approach 3: Optimal Approach Using Two Pointers
 package Array.Two_Sum_Variant2;
-
 import java.util.Arrays;
 
 public class Approach3 {

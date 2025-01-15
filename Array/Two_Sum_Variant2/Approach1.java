@@ -1,5 +1,5 @@
+// Approach 1: Brute Force Approach Using Two loops
 package Array.Two_Sum_Variant2;
-
 public class Approach1 {
     public static String twoSum(int n, int []arr, int target) {
         for (int i = 0; i < n; i++) {

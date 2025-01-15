@@ -1,7 +1,6 @@
+// Approach 2: Better Approach Using Hashing
 package Array.Two_Sum_Variant2;
-
 import java.util.HashMap;
-
 public class Approach2 {
     public static int[] twoSum(int n, int []arr, int target) {
         int[] ans = new int[2];
