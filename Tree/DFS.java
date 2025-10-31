@@ -14,7 +14,7 @@ class TreeNode {
     }
 }
 
-class DFS {
+public class DFS {
 
     // ---------------- INORDER Traversal ----------------
     // (Left → Root → Right)
