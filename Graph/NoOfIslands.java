@@ -1,8 +1,8 @@
 package Graph;
 import java.util.*;
 
-// 🌊 Solution class to count the number of islands using BFS
-class Solution {
+// 🌊 IslandsSolution class to count the number of islands using BFS
+class IslandsSolution {
 
     /**
      * Helper function to perform BFS traversal
@@ -98,8 +98,8 @@ public class NoOfIslands {
             {'0','0','0','1','1'}
         };
 
-        // Create Solution object
-        Solution solution = new Solution();
+        // Create IslandsSolution object
+        IslandsSolution solution = new IslandsSolution();
 
         // Compute and print the number of islands
         int result = solution.numIslands(grid);

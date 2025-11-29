@@ -3,7 +3,7 @@ package Graph;
 import java.util.*;
 
 // ---------------- Solution Class ----------------
-class Solution {
+class DfsSolution {
 
     // Function to perform Depth First Search (DFS)
     public void dfs(int v, List<Integer>[] adj, boolean[] visited, List<Integer> result) {
@@ -61,7 +61,7 @@ public class DFS {
         List<Integer> result = new ArrayList<>();
 
         // Step 4: Create Solution object and call DFS
-        Solution sol = new Solution();
+        DfsSolution sol = new DfsSolution();
 
         // Run DFS starting from node 0
         sol.dfs(0, adj, visited, result);
